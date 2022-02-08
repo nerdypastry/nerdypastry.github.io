@@ -73,6 +73,13 @@ paths:
 ## excerpt
 excerpt_separator: <!--more-->
 
+## => Collections
+collections:
+  cakes:
+    output: true
+    permalink: /cupcakes/:path/
+
+
 ## license
 license: CC-BY-NC-4.0 # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4.0"
 
